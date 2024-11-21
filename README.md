@@ -41,9 +41,11 @@ To run the backend locally, you will need to install JSON Server. Install it glo
 Create a file named db.json in the root directory of the project. This file will serve as the database for the application. Add the following initial content to db.json:
 
 
-```{
+```
+{
   "users": []
-}```
+}
+```
 
 #### 4. Start JSON Server
 After setting up db.json, open your terminal, navigate to the project folder, and run the following command to start JSON Server on port 5000:
