@@ -17,13 +17,14 @@ JavaScript: Handling the logic for CRUD operations, such as adding, editing, and
 JSON Server: A simple fake REST API for data management.
 
 ## File Structure:
-user-management-dashboard/
+```user-management-dashboard/
 │
 ├── index.html            # Main HTML file containing the layout
 ├── style.css             # CSS file to style the dashboard
 ├── app.js                # JavaScript file for handling user management functionality
 ├── db.json               # JSON file used by JSON Server to store user data
 ├── README.md             # Project description (this file)
+```
 
 ## Setup Instructions:
 #### 1. Clone the Repository
