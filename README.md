@@ -29,7 +29,7 @@ user-management-dashboard/
 #### 1. Clone the Repository
 To get started, clone this repository to your local machine:
 
-'''git clone https://github.com/your-username/user-management-dashboard.git'''
+```git clone https://github.com/your-username/user-management-dashboard.git```
 
 #### 2. Install JSON Server
 To run the backend locally, you will need to install JSON Server. Install it globally using npm:
