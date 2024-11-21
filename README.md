@@ -35,26 +35,26 @@ To get started, clone this repository to your local machine:
 To run the backend locally, you will need to install JSON Server. Install it globally using npm:
 
 
-npm install -g json-server
+```npm install -g json-server```
 
 #### 3. Create db.json
 Create a file named db.json in the root directory of the project. This file will serve as the database for the application. Add the following initial content to db.json:
 
 
-{
+```{
   "users": []
-}
+}```
 
 #### 4. Start JSON Server
 After setting up db.json, open your terminal, navigate to the project folder, and run the following command to start JSON Server on port 5000:
 
 
-json-server --watch db.json --port 5000
+```json-server --watch db.json --port 5000```
 
 This will simulate a backend API that you can use to store and retrieve user data.
 
 #### 5. Open the Project
-Once JSON Server is running, open the index.html file in your browser or use a tool like Live Server in Visual Studio Code to view the project.
+Once JSON Server is running, open the ```index.html``` file in your browser or use a tool like Live Server in Visual Studio Code to view the project.
 
 ## How It Works:
 #### Adding Users:
@@ -78,3 +78,6 @@ If you want to contribute to the project, feel free to fork the repository and s
 ## Contributors:
 Atisha Shrivas
 Email: atisha.shrivas@gmail.com
+
+## Live Demo:
+
