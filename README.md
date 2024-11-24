@@ -14,7 +14,7 @@ HTML: Markup for the structure of the dashboard.
 CSS: Styling the interface to ensure a clean, user-friendly experience.
 JavaScript: Handling the logic for CRUD operations, such as adding, editing, and deleting users.
 ### Backend:
-JSON Server: A simple fake REST API for data management.
+JSON Server: A simple REST API for data management.
 
 ## File Structure:
 ```user-management-dashboard/
